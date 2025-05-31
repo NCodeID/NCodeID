@@ -29,12 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1138875/screenshots/4669703/404_animation.gif"  />
-
-###
-
 <div align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
